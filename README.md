@@ -16,4 +16,4 @@ I'm a computer science undergraduate student passionate about learning new thing
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<!-- [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jeremias0421&show_icons=true&theme=radical)](https://github.com/Jeremias0421)
+<[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JeremiasPanozzo&show_icons=true&theme=radical)](https://github.com/JeremiasPanozzo)
