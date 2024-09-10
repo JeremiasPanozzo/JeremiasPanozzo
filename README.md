@@ -15,5 +15,8 @@ I'm a computer science undergraduate student passionate about learning new thing
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
 
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JeremiasPanozzo&theme=buefy&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasPanozzo&layout=compact&theme=buefy)
